@@ -1,0 +1,2 @@
+echo "mam bug is fixed"
+
